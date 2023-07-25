@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Home Lab Demo Siem with Azure Sentinel</b>
-  - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo!](https://github.com/ralphramos1/SentinalSiemLab)
 - <b>Home Lab Demo Vulnerability Management with OpenVAS</b>
   - [Demonstrating OpenVAS Vulnerability Management in Action](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
