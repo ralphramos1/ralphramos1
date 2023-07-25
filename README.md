@@ -4,13 +4,28 @@
 
 - <b>Home Lab Demo Siem with Azure Sentinel</b>
   - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo!](https://github.com/ralphramos1/SentinalSiemLab)
-- <b>Home Lab Demo Vulnerability Management with OpenVAS</b>
-  - [Demonstrating OpenVAS Vulnerability Management in Action](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  
+- <b>Home Lab Demo Vulnerability Management with Nessus</b>
+  - [Demonstrating OpenVAS Vulnerability Management in Action](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
+
+<h2> 📕 How I stay up to date with Cyber Security</h2>
+
+- <b>The Hacker News</b>
+  - [All things related to Cyber Security](https://thehackernews.com/)
+- <b>Dark Reading</b>
+  - [Cybersecurity news and analysis website covering the latest threats and industry trends](https://www.darkreading.com/)
+- <b>John Hammond</b>
+  - [Cyber Security Researcher](https://www.youtube.com/@_JohnHammond)
+
+<h2> 🎧 Discover this incredible Cyber Security Podcast for an engaging listening experience.</h2>
+
+- <b>Darknet Diaries</b>
+  - [True stories from the dark side of the Internet](https://darknetdiaries.com/)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Ralph Ramos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rramos702/
+<br>
+
 
 
