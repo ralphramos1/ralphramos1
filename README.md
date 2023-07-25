@@ -5,7 +5,7 @@
 - <b>Home Lab Demo Siem with Azure Sentinel</b>
   - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo](https://github.com/ralphramos1/SentinalSiemLab)
 - <b>Home Lab Demo Vulnerability Management with Nessus</b>
-  - [Demonstrating Nessus Vulnerability Scanning tool in action](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
+  - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo](https://github.com/ralphramos1/SentinalSiemLab)</b></i>
 
 <h2> 📕 How I stay up to date with Cyber Security</h2>
 
