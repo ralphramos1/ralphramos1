@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Home Lab Demo Siem with Azure Sentinel</b>
-  - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo!](https://github.com/ralphramos1/SentinalSiemLab)
+  - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo](https://github.com/ralphramos1/SentinalSiemLab)
 - <b>Home Lab Demo Vulnerability Management with Nessus</b>
-  - [Demonstrating OpenVAS Vulnerability Management in Action](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
+  - [Demonstrating Nessus Vulnerability Scanning tool in action](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b></i>
 
 <h2> 📕 How I stay up to date with Cyber Security</h2>
 
