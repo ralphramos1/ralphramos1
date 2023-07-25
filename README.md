@@ -5,7 +5,7 @@
 - <b>Home Lab Demo Siem with Azure Sentinel</b>
   - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo](https://github.com/ralphramos1/SentinalSiemLab)
 - <b>Home Lab Demo Vulnerability Management with OpenVAS</b>
-  - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo](https://github.com/ralphramos1/OpenVasLab)</b></i>
+  - [Embark on an exploration of Vulnerability Management with OpenVAS](https://github.com/ralphramos1/OpenVasLab)</b></i>
 
 <h2> 📕 How I stay up to date with Cyber Security:</h2>
 
