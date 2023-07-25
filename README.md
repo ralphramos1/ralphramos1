@@ -7,7 +7,7 @@
 - <b>Home Lab Demo Vulnerability Management with OpenVAS</b>
   - [Experiencing Azure Sentinel in Action: Real-Time Cyber Attack Demo](https://github.com/ralphramos1/SentinalSiemLab)</b></i>
 
-<h2> 📕 How I stay up to date with Cyber Security</h2>
+<h2> 📕 How I stay up to date with Cyber Security:</h2>
 
 - <b>The Hacker News</b>
   - [All things related to Cyber Security](https://thehackernews.com/)
@@ -16,7 +16,7 @@
 - <b>John Hammond</b>
   - [Cyber Security Researcher](https://www.youtube.com/@_JohnHammond)
 
-<h2> 🎧 Discover this incredible Cyber Security Podcast for an engaging listening experience.</h2>
+<h2> 🎧 Discover this incredible Cyber Security Podcast for an engaging listening experience:</h2>
 
 - <b>Darknet Diaries</b>
   - [True stories from the dark side of the Internet](https://darknetdiaries.com/)
