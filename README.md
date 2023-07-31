@@ -13,7 +13,7 @@
   - [All things related to Cyber Security](https://thehackernews.com/)
 - <b>Dark Reading</b>
   - [Cybersecurity news and analysis website covering the latest threats and industry trends](https://www.darkreading.com/)
-- <b>John Hammond</b>
+- <b>John Hammond, Youtuber</b>
   - [Cyber Security Researcher](https://www.youtube.com/@_JohnHammond)
  
 <h2> 📜 What I'm currently working on:</h2>
