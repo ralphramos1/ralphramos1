@@ -20,7 +20,7 @@
 
 - <b>CrowdStrike Certified Falcon Administrator Certification</b>
   - Finished CSU course, studying documents, taking course soon.
-- <b>TCM Security</b>
+- <b>TCM Security (14% complete)</b>
   - [Practical Ethical Hacking course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 <h2> 🎧 Discover this incredible Cyber Security Podcast for an engaging listening experience:</h2>
 
