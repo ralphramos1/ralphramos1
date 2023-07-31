@@ -15,7 +15,13 @@
   - [Cybersecurity news and analysis website covering the latest threats and industry trends](https://www.darkreading.com/)
 - <b>John Hammond</b>
   - [Cyber Security Researcher](https://www.youtube.com/@_JohnHammond)
+ 
+<h2> 📜 What I'm currently working on:</h2>
 
+- <b>CrowdStrike Certified Falcon Administrator Certification</b>
+  - Finished CSU course, studying documents, take course soon.
+- <b>TCM Security</b>
+  - [Practical Ethical Hacking course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 <h2> 🎧 Discover this incredible Cyber Security Podcast for an engaging listening experience:</h2>
 
 - <b>Darknet Diaries</b>
