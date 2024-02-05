@@ -9,9 +9,9 @@
 
 <h2> 📜 What I'm currently working on:</h2>
 
-- <b>CrowdStrike Certified Falcon Administrator Certification</b>
-  - Finished CSU course, studying documents, taking course soon.
-- <b>TCM Security (22% complete)</b>
+- <b>Woirking on CySA+</b>
+  - Using Mike Chapple course, goal is to take exam end of Feburary.
+- <b>TCM Security (55% complete, took a break😬)</b>
   - [Practical Ethical Hacking course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
 
 <h2> 📕 How I stay up to date with Cyber Security:</h2>
